@@ -1,4 +1,7 @@
-# README #
+# Description #
+A chatbot helps to answer the questions related to the YouTube video provided.
+
+# Programming language: Python
 
 ### How to run
 
